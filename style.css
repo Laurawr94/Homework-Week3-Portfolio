@@ -123,3 +123,9 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
+.aboutHeading {
+  margin-top: 100px;
+}
+.mainHeading {
+  margin-top: 100px;
+}
